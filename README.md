@@ -1,1 +1,2 @@
 # V-STC
+Simulations are conducted in both structured and unstructured environments to evaluate the proposed V-STC method against the STC method. A total of three scenarios are designed: Scenario 1: Unsignalized Intersection Scenario; Scenario 2: Multi-Lane Lane-Change Scenario; Scenario 3: Unstructured Environment Scenario.
